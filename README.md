@@ -8,8 +8,6 @@
  
 <img alt="Repo Size" src="https://img.shields.io/github/repo-size/pauladanielafarias/probabilidad_multiple_choice?style=flat&logo=github">  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/pauladanielafarias/probabilidad_multiple_choice">
 
-<br>
-
 - Se intenta demostrar que la probabilidad de que una de las respuestas sea la correcta, es del 25% (como la lógica indica).
 
 - También, se intenta demostrar que dicha probabilidad es correcta pero solamente cuando tiende a muchos multiple choice(infinito). Si se observa una pregunta multiple choice en particular, puede haber más o menos que el 25% de probabilidades de que sea la correcta, es por esto que se debe observar en un alto volumen de preguntas, para realmente determinar que la probabilidad es del 25%.
@@ -20,7 +18,6 @@
 
 _Aclaración: el código python es el mismo para ambos archivos._
 
-<br>
 
 ### :computer: Tecnologías utilizadas: <img align="center" alt="CodeFactor Grade" src="https://img.shields.io/codefactor/grade/github/pauladanielafarias/probabilidad_multiple_choice/master?&logo=codefactor&logoColor=green"> <img align="center" alt="GitHub language count" src="https://img.shields.io/github/languages/count/pauladanielafarias/probabilidad_multiple_choice">  <img alt="GitHub top language" align="center" src="https://img.shields.io/github/languages/top/pauladanielafarias/probabilidad_multiple_choice">
 
