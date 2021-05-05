@@ -17,6 +17,7 @@
 _Aclaración: el código python es el mismo para ambos archivos._
 
 <br>
+
 ### :computer: Tecnologías utilizadas: <img align="center" alt="CodeFactor Grade" src="https://img.shields.io/codefactor/grade/github/pauladanielafarias/probabilidad_multiple_choice/master?&logo=codefactor&logoColor=green"> <img align="center" alt="GitHub language count" src="https://img.shields.io/github/languages/count/pauladanielafarias/probabilidad_multiple_choice">  <img alt="GitHub top language" align="center" src="https://img.shields.io/github/languages/top/pauladanielafarias/probabilidad_multiple_choice">
 
 - <img width="2%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg"> Jupyter Notebooks
