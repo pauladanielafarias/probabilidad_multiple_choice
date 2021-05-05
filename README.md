@@ -4,7 +4,7 @@
 <br>
 
 
-# 📈 Probabilidad de que salga una opción en un multiple choice con 'x' preguntas y 4 opciones
+## 📈 Probabilidad de que salga una opción en un multiple choice con 'x' preguntas y 4 opciones
  
 <img alt="Repo Size" src="https://img.shields.io/github/repo-size/pauladanielafarias/probabilidad_multiple_choice?style=flat&logo=github">  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/pauladanielafarias/probabilidad_multiple_choice">
 
@@ -13,7 +13,10 @@
 - La respuesta correcta está dada por un numero random del 1 al 4. Si sale 1, la respuesta correcta es la opcion a (así para cada opción).
 - Cuantas más preguntas, más tenderá a ser cierta la afirmación de la probabilidad del 25% de acierto.
 
+<br>
+_Aclaración: el código python es el mismo para ambos archivos._
 
+<br>
 ### :computer: Tecnologías utilizadas: <img align="center" alt="CodeFactor Grade" src="https://img.shields.io/codefactor/grade/github/pauladanielafarias/probabilidad_multiple_choice/master?&logo=codefactor&logoColor=green"> <img align="center" alt="GitHub language count" src="https://img.shields.io/github/languages/count/pauladanielafarias/probabilidad_multiple_choice">  <img alt="GitHub top language" align="center" src="https://img.shields.io/github/languages/top/pauladanielafarias/probabilidad_multiple_choice">
 
 - <img width="2%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg"> Jupyter Notebooks
