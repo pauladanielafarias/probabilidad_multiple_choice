@@ -8,12 +8,15 @@
  
 <img alt="Repo Size" src="https://img.shields.io/github/repo-size/pauladanielafarias/probabilidad_multiple_choice?style=flat&logo=github">  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/pauladanielafarias/probabilidad_multiple_choice">
 
+<br>
+
 - Se intenta demostrar que la probabilidad de que una de las respuestas sea la correcta, es del 25% (como la lógica indica).
 - Esto se intenta demostrar que la probabilidad es correcta pero cuando tiende a muchos multiple choice(infinito). Si se observa una pregunta multiple choice en particular, puede haber más o menos que el 25% de probabilidades de que sea la correcta, es por esto que se debe observar en un alto volumen de preguntas, para realmente determinar que la probabilidad es del 25%.
 - La respuesta correcta está dada por un numero random del 1 al 4. Si sale 1, la respuesta correcta es la opcion a (así para cada opción).
 - Cuantas más preguntas, más tenderá a ser cierta la afirmación de la probabilidad del 25% de acierto.
 
 <br>
+
 _Aclaración: el código python es el mismo para ambos archivos._
 
 <br>
