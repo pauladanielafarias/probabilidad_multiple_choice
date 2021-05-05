@@ -16,7 +16,7 @@
 
 - La respuesta correcta está dada por un numero random del 1 al 4. Si sale 1, la respuesta correcta es la opcion a (así para cada opción).
 
-_Aclaración: el código python es el mismo para ambos archivos._
+_Aclaración: el código python es el mismo para ambos archivos ([python](mc.py) | [jupyter notebook](mc.ipynb)._
 
 
 ### :computer: Tecnologías utilizadas: <img align="center" alt="CodeFactor Grade" src="https://img.shields.io/codefactor/grade/github/pauladanielafarias/probabilidad_multiple_choice/master?&logo=codefactor&logoColor=green"> <img align="center" alt="GitHub language count" src="https://img.shields.io/github/languages/count/pauladanielafarias/probabilidad_multiple_choice">  <img alt="GitHub top language" align="center" src="https://img.shields.io/github/languages/top/pauladanielafarias/probabilidad_multiple_choice">
